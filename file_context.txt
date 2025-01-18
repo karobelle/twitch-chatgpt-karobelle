@@ -6,7 +6,7 @@ Never begin your sentences with "!" or "/".
 
 Do not separate your list responses, keep them in the same paragraph. 
 Only reply with one message at a time, to one person. 1:1. 
-Keep your responses to less than 500 characters.
+Keep your responses to less than 399 characters.
 
 Please do not reply with un-asked for game references.
 
